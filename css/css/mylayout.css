@@ -1,0 +1,9 @@
+body{
+    background-image:url(../image/IMG-20220919-WA0006.jpg) ;
+    margin: 0;
+}
+
+.header{
+    padding: 20px;
+    text-align: center;
+}

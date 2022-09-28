@@ -1,0 +1,21 @@
+body{background-image:url(../image/keyboard-background.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: fixed;
+    width: 50%;
+}
+.right {
+    background-color: grey;
+   margin:20px;
+    border: thin;
+    padding: 15px;
+    text-align: center;
+    width: 30%;
+    border-width: 30%;
+    float: right;
+}
+.left{
+    float: right;
+    width: 50%;
+}
+.right, .left{width:80%;}
